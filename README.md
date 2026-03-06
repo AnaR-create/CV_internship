@@ -1,4 +1,4 @@
-﻿﻿## Rock Coverage Analysis Script
+﻿﻿# Rock Coverage Analysis Script
 
 This Python script is designed to analyze a video of rocks and determine the coverage percentage within a predefined polygon region. The script uses OpenCV for video processing and background subtraction techniques to identify and track objects (rocks) within the specified area. Here's a detailed explanation of what the script does:
 
@@ -68,3 +68,4 @@ This Python script is designed to analyze a video of rocks and determine the cov
 Ana Rodrigues
 
 anafontesrodrigues@gmail.com
+
